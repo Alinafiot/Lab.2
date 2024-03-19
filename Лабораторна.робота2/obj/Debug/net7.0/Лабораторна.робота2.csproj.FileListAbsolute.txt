@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Лабораторна.робота2\bin\Debug\net7.0\Лабораторна.робота2.exe
+C:\Users\admin\source\repos\Лабораторна.робота2\bin\Debug\net7.0\Лабораторна.робота2.deps.json
+C:\Users\admin\source\repos\Лабораторна.робота2\bin\Debug\net7.0\Лабораторна.робота2.runtimeconfig.json
+C:\Users\admin\source\repos\Лабораторна.робота2\bin\Debug\net7.0\Лабораторна.робота2.dll
+C:\Users\admin\source\repos\Лабораторна.робота2\bin\Debug\net7.0\Лабораторна.робота2.pdb
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.AssemblyInfo.cs
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.dll
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\refint\Лабораторна.робота2.dll
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.pdb
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.genruntimeconfig.cache
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\ref\Лабораторна.робота2.dll
+C:\Users\admin\source\repos\Лабораторна.робота2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Лабораторна.робота2\obj\Debug\net7.0\Лабораторна.робота2.csproj.CopyComplete
